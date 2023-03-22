@@ -1,5 +1,5 @@
 <script lang="ts">
-  const email: string = "ru.khakimov@innopolis.university"
+  export let email: string;
   
   interface Comic {
     day: string;

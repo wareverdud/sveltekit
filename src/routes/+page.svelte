@@ -10,7 +10,7 @@
 <main>
   <div class="container">
     <Projects />
-    <Comic />
+    <Comic email={"ru.khakimov@innopolis.university"} />
   </div>
 </main>
 
